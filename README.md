@@ -51,9 +51,5 @@ BSD
 Author Information
 ------------------
 
-This role is written by below team members. 
-
-  Name              Contact
-Abhishek         email : abhishek.k21@infosys.com
-Divyaree         email : divyasree.h@infosys.com
-Jaise            email : jaise.augustine@infosys.com
+This role is written by Abhishek kumar shrivastwa.
+email : abhishridevops@gmail.com
