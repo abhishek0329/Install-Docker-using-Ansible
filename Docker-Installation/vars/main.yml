@@ -1,0 +1,5 @@
+---
+# vars file for Docker-Installation
+ver: 18.09.6
+rel_version: 1.26.0 
+os_version: docker-compose-Linux-x86_64

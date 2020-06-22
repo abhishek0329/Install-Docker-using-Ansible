@@ -1,0 +1,6 @@
+- name: Install docker-ce
+  yum:
+    name: "docker-ce-{{ ver }}"
+    state: present
+  notify:
+  - start docker

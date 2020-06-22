@@ -1,0 +1,4 @@
+- name: Install containerd.io
+  yum:
+    name: containerd.io
+    state: present

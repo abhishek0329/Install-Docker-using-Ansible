@@ -1,0 +1,5 @@
+- name: Install docker compose
+  get_url:
+    url: "https://github.com/docker/compose/releases/download/{{ rel_version }}/{{ os_version }}"
+    dest: /usr/local/bin/docker-compose
+    mode: 'u+x,g+x'

@@ -1,0 +1,4 @@
+- name: Install docker-ce-cli
+  yum:
+    name: "docker-ce-cli-{{ ver }}"
+    state: present

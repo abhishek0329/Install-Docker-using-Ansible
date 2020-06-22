@@ -1,0 +1,8 @@
+---
+# tasks file for Docker-Installation
+- import_tasks: update-all-packages.yml
+- import_tasks: add-docker-repo.yml
+- import_tasks: install-docker-ce-cli.yml
+- import_tasks: install-containerd.io.yml
+- import_tasks: install-docker-ce.yml
+- import_tasks: docker-compose-installation.yml
